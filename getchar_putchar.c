@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-// Exemplo com getchar e putchar Vladwoguer Bezerra Fevereiro de 2016
+/* Exemplo com getchar e putchar Vladwoguer Bezerra Fevereiro de 2016 */
 int main(void) {
 	int c;
 	c = getchar();

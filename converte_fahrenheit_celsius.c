@@ -1,8 +1,7 @@
 #include <stdio.h>
 
-// Conversor F para C Vladwoguer Bezerra Janeiro de 2016
+/* Conversor F para C Vladwoguer Bezerra Janeiro de 2016 */
 int main(void) {
-
 	float fahr, celsius;
 
 	printf("Forneça o valor em Fahrenheit: ");

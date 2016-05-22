@@ -1,4 +1,5 @@
 #include <stdio.h>
+/* Exemplo funcao le linha Vladwoguer Bezerra Fevereiro de 2016 */
 void le_linha(char linha[]); // Declaracao da funcao, lembre que no caso do array a passagem eh por referencia 
 int main(void){
 	char linha[256];
