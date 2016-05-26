@@ -38,8 +38,7 @@ int main(void) {
 			printf("Você digitou um número fora do intervalo de 4 a 9\n");
 			break;
 		}
-		
-		return 0;
+	
 	}
 	
 	return 0;
